@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briannaljohns
-- 🌱 I’m currently learning how to code and how to make music using Sonic Pi
-- 💞️ I’m looking to collaborate on music projects :)
+- 🔬 I am the community coordinator for the GOSH Community 
+- 🌱 I’m currently learning how to code and how to make music using Sonic Pi, any helpful tips and tricks are appreciated!
 - 📫 How to reach me: briannaljohns@gmail.com
 
 <!---
